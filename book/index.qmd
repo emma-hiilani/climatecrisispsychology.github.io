@@ -1,0 +1,5 @@
+# Preface {.unnumbered}
+
+This is a placeholder for the upcoming open source book on the Psychology of the Climate Crisis.
+
+This book was generated using [Quarto](https://quarto.org).
