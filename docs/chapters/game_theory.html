@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-99.9.9">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>The Psychology of the Climate Crisis - 7&nbsp; Game Theory of Climate Change</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../chapters/interventions.html" rel="prev">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+
+
+</head>
+
+<body class="nav-sidebar floating">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../chapters/game_theory.html"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Game Theory of Climate Change</span></a></li></ol></nav>
+      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+      </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="../">The Psychology of the Climate Crisis</a> 
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Preface</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/intro.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Introduction</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/behavior_change.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Correlates of Collective Behavioral Engagement</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/social_identity.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Identifying with the climate crisis: Understanding the influences of social identities on climate change belief and attitudes</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/time.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">The psychology of time, climate change, and human behavior</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/motivated_reasoning_misinformation.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Factors in Climate Change Belief Formation</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/interventions.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Climate Change Interventions: Behaviors, Attitudes, and Beliefs</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/game_theory.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Game Theory of Climate Change</span></span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction"><span class="header-section-number">7.1</span> Introduction</a></li>
+  <li><a href="#i.-game-theory-for-individual-behavior" id="toc-i.-game-theory-for-individual-behavior" class="nav-link" data-scroll-target="#i.-game-theory-for-individual-behavior"><span class="header-section-number">7.2</span> I. Game Theory for Individual Behavior</a></li>
+  <li><a href="#ii.-organizational-decision-making-corporate-strategy" id="toc-ii.-organizational-decision-making-corporate-strategy" class="nav-link" data-scroll-target="#ii.-organizational-decision-making-corporate-strategy"><span class="header-section-number">7.3</span> II. Organizational Decision-Making &amp; Corporate Strategy</a></li>
+  <li><a href="#iii.-domestic-and-international-political-game-theory" id="toc-iii.-domestic-and-international-political-game-theory" class="nav-link" data-scroll-target="#iii.-domestic-and-international-political-game-theory"><span class="header-section-number">7.4</span> III. Domestic and International Political Game Theory</a>
+  <ul class="collapse">
+  <li><a href="#domestic" id="toc-domestic" class="nav-link" data-scroll-target="#domestic"><span class="header-section-number">7.4.1</span> Domestic</a></li>
+  <li><a href="#international" id="toc-international" class="nav-link" data-scroll-target="#international"><span class="header-section-number">7.4.2</span> International</a></li>
+  </ul></li>
+  <li><a href="#conclusion" id="toc-conclusion" class="nav-link" data-scroll-target="#conclusion"><span class="header-section-number">7.5</span> Conclusion</a></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references"><span class="header-section-number">7.6</span> References</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Game Theory of Climate Change</span></h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<p>Wakely Lush</p>
+<section id="introduction" class="level2" data-number="7.1">
+<h2 data-number="7.1" class="anchored" data-anchor-id="introduction"><span class="header-section-number">7.1</span> Introduction</h2>
+<p>In addressing the perpetuation of non-climate-friendly behavior, it is crucial to understand the power of economic influence and large-scale organizational decision making. For this purpose, it is most appropriate to rely on game theory, or the study of the interacting strategies of agents in a competitive economic environment, to reveal the technicalities of these factors. While game theory is not generally considered a psychological field of study, its principles are relevant to the motivation behind much of the economical behavior displayed by individuals and organizations alike. Thus, game theory is an essential consideration in the effort to understand and confront the barriers to ubiquitous implementation of sustainable behaviors.</p>
+<p>Perhaps the most fundamental idea of game theory is that agents, or players, aim to choose the strategies that yield the greatest possible payoffs within the game—a game can be any situation in which agents receive a result from their choice of action, and the payoff is the agent’s subjective happiness with that received result (Stanford Encyclopedia of Philosophy). Therefore, as long as it can be assumed that the game’s variables are all accounted for and the players of the game are rational actors, probabilities can be calculated and games tend to play out predictably. However, the game of climate change is not a predictable one. Not only are there a myriad of complex variables yet to be completely studied or even discovered, but the players of this game have not necessarily exhibited rationality either. Human beings have displayed widespread denial of their impact on Earth’s climate, or even of the existence of climate change entirely, as well as perpetuation of environmentally-destructive practices and behaviors. The sections below detail the aspects of climate change game theory on three different levels: (I) individual, (II) organizational, and (III) political.</p>
+</section>
+<section id="i.-game-theory-for-individual-behavior" class="level2" data-number="7.2">
+<h2 data-number="7.2" class="anchored" data-anchor-id="i.-game-theory-for-individual-behavior"><span class="header-section-number">7.2</span> I. Game Theory for Individual Behavior</h2>
+<p>While we may not realize it, game theory is a construct which hangs over the decisions we make, or the strategies we choose, on a daily basis. Whether the strategy is going to a further grocery store to find more affordable goods or showing up to a particular event to improve reputation in a social group, it all ultimately comes down to the maximization of payoffs. Putting this in the perspective of climate-friendly behavior, it can be interesting to observe the contrast between this payoff-maximizing prioritization and the kind of sustainable practices that we would like to encourage.</p>
+<p>One factor from game theory which unfortunately does not support or encourage sustainable practices is the widespread irrationality in human behavior. As previously explained, rationality of agents in a game is critical to the game’s predictability and to the truly successful maximization of end payoffs. On average, people have shown to be poorly skilled at properly assessing the factors within their environment to calculate accurate potential payoffs, especially in the case of forecasting distant payoffs in conjunction with a long-term variable such as climate change (Camerer et al., 2015). This symptom of irrationality may be one of the key reasons why many of the people who accept the reality of climate change and agree that it is a problem do not actually alter their behavior to the degree that could lead to improved payoffs with respect to the environment. These types of people can be labeled as “free-riders,” as they are willing to enjoy the public good of the environment but leave all of the effort of climate change activism to the people around them (Wood 2011). Acknowledging this irrationality is important before further analysis.</p>
+<p>Dealing with this downstream level of game theoretical analysis of individuals, there exist two primary forms of behavioral motivation: financial and social payoffs (Crawford et al., 2020). In this case, financial payoffs can simply be considered any incentives to wealth or financial stability, while social payoffs are a less defined measure of a person’s movement toward or away from their desired social standing. The two example strategies given before, traveling farther for affordable goods and showing up to important social events, show perfect examples of both financial and social payoffs in everyday, civilian games. Altering these strategies to fit under the lens of climate change related games, the first might instead be choosing to buy less-sustainably-produced goods over their more expensive counterparts for the financial payoff, while the second could be choosing to drive a gas-guzzling truck for the social payoff of fitting in with a particular social group. Clearly, neither of these actions are ideal for climate change activism, but they represent realistic and common behaviors that are not currently ridiculed en masse due to aforementioned pervasive irrationality.</p>
+<p>Fortunately, game theory does present avenues for alteration of problematic behavior. Specifically for this case, manipulating the motivational variables can be an effective method of inducing favorable actions. While this is not as realistic for the social payoff motivation, as social norms are quite sticky and take time to develop and change, aiming to optimize financial payoffs in pair with sustainable behavior is a more feasible endeavor. Observe the figure below:</p>
+<p><img src="media/image1.png" style="width:5.57813in;height:3.99587in"></p>
+<p>This is called a payoff matrix—a figure that helps economists visualize the possible payoffs of two interacting players in a single-round game. Here, we are modeling the first example of climate change related games discussed above, where the customer agent chose to buy cheaper goods over sustainably-produced goods. The numbers in the bottom-left of each box represent the payoffs of the customer, while those in the top-right represent the payoffs of the seller. By crossing the available strategies of the customer with that of the sellers, we can see that, if the sellers are somehow incentivized to price sustainable products below unsustainable products, there becomes a financial incentive for the customer to purchase only sustainable products. While this is no jaw-dropping declaration, it is an important dynamic to recognize in order to put effective interventions in motion. In fact, many meta-analyses of household data for finding effective climate change related interventions point to financial incentives as the primary motivational factor (Bergquist et al., 2023).</p>
+<p>Therefore, finding a way to align household sustainability with maximum financial payoff for the average person could be an effective method of establishing environmentally healthy behavioral norms on the individual level.</p>
+</section>
+<section id="ii.-organizational-decision-making-corporate-strategy" class="level2" data-number="7.3">
+<h2 data-number="7.3" class="anchored" data-anchor-id="ii.-organizational-decision-making-corporate-strategy"><span class="header-section-number">7.3</span> II. Organizational Decision-Making &amp; Corporate Strategy</h2>
+<p>In game theory, there are two main classifications of games when referring to the transparency of their variables: games of complete information and games of incomplete information. With games of complete information, all players have knowledge of all of the game’s variables, including the sequence of action, strategies and payoffs of other players, and any other parameters of the game. In contrast, players in games of incomplete information have lapses in this knowledge and don’t have total understanding of the game at play (EconPort). Of the two, climate change can be classified as a game of incomplete information due to the complexity and pure mass of information it involves. It can also be classified as another type of game: a public goods game. This is a scenario where agents pursue payoffs in the midst of a resource that is publicly available to everyone (Tomassini &amp; Antonioni, 2020). These classifications are perhaps the most dangerous aspects of the game theory of climate change, as they compel players, particularly fossil fuels corporations, to rapidly consume the public good involved—Earth’s atmosphere and natural resources in this case—and pursue their maximum short-term payoffs without a full understanding of their long-term effects. By the time a comprehensive understanding of climate change variables comes to light, the steps taken in the wrong direction will not be able to be reversed, making the implementation of further environmental precaution in current practices an urgent issue. These factors will be discussed further below in association with the history of organizational policy in the United States.</p>
+<p>Acknowledging the power of financial variables on the individual level of game theory with respect to climate change, the organizational level pushes the prioritization of finances to an even higher degree. In particular, Oil and Gas (O&amp;G) companies have not only denied their role in the increase of harmful greenhouse gasses in Earth’s atmosphere, but also have promoted irrational thought and misinformation about climate change on a massive scale since as early as 1980—all in an effort to maximize financial payoffs and maintain influence (Franta 2021). The misinformation strategy was effective for many years, and still has residual effects today despite a greater consensus on the existence of climate change (Mulvey et al., 2015), but the primary strategy of these corporations has now shifted to a more subtle approach: accepting the climate change discourse and publicizing a transition to clean energy.</p>
+<p>In recent years, many of the major producers of fossil fuels, such as ExxonMobil and Shell, have put forth pledges to transition away from fossil fuels to more sustainable forms of energy. Unfortunately, these pledges are showing to more likely be strategies to mislead and deter sustainability activism rather than actual signals of change in company practices and goals. The skepticism arises from discrepancies between the statements made by these companies and the actions and investments that have truly been made (Li et al., 2022). This mismatch in climate discourse and action has become commonly referred to as “greenwashing,” and has undoubtedly slowed momentum for environmental activism. In doing this, corporations have stuck to a strategy which, similar to the individual level, prioritizes a maximization of financial payoffs. Different from the individual level, however, is the scale of the environmental impact of this strategy.</p>
+<p>As of the year 2016, over 50% of global greenhouse gas emissions can be traced back to the operations of companies in the O&amp;G sector (Ritchie &amp; Roser, 2020). Compounding this massive output of emissions with the reluctance of O&amp;G companies to make effective policy changes further emphasizes the extremity of the climate situation as a public goods game of incomplete information. With no reliable promise of change in the foreseeable future, the concepts of critical mass and tipping points become relevant to the conversation. Game theory is only one of many analytical fields to which these concepts are applicable. Critical mass is a measurement of the minimum level of a particular variable needed to spur and maintain some form of activity (Dodge 2012). There are no requirements on the quality of the variable in question; it can be a positive, negative, or neutral catalyst. When critical mass is reached in social cases, a behavioral tipping point is prompted into effect, whereby people are motivated to sustain a certain quality of behavior relevant to the critical mass variable (Dodge 2012). Introducing the lens of climate change to this concept, Earth will eventually reach a critical mass of poor atmospheric quality and depletion of natural resources which, in theory, should elicit a trend of self-sustaining climate-friendly organizational behavior (Tavoni &amp; Iris, 2020). While this is a reassuring theory, it is far from ideal as compared to the goal of proactive widespread sustainability which would better preserve Earth’s most valued features, though more research should be conducted in order to pull tipping point theories further into the light.</p>
+</section>
+<section id="iii.-domestic-and-international-political-game-theory" class="level2" data-number="7.4">
+<h2 data-number="7.4" class="anchored" data-anchor-id="iii.-domestic-and-international-political-game-theory"><span class="header-section-number">7.4</span> III. Domestic and International Political Game Theory</h2>
+<p>In discussing the relevance of game theory to climate change, it would be an extreme oversight to fail to recognize the role of political proceedings, both domestic and international. Domestically, funding records show that many political representatives are closely financially tied to the anti-sustainability O&amp;G firms, very likely skewing their priorities in office (Goldberg et al., 2020). Internationally, influential countries try to balance the need to maintain energy production, exports, and military capability with the need to form emission-diminishing global climate agreements (Wood 2011). The game theoretical implications of these political dynamics are further explored below.</p>
+<section id="domestic" class="level3" data-number="7.4.1">
+<h3 data-number="7.4.1" class="anchored" data-anchor-id="domestic"><span class="header-section-number">7.4.1</span> Domestic</h3>
+<p>It is no secret that the issue of climate change has been politicized to the point of bipartisanship between Democrats and Republicans. In a survey of Americans from both parties conducted by the nonprofit organization Resources for the Future, 94 percent of Democrats agreed with the statement, “The world’s temperature will probably go up over the next 100 years,” as opposed to just 56 percent of Republicans (Krosnick 2020). This discrepancy did not arise by chance, but rather due to the influence of political game theory in the United States. Public records of political campaign funding show that the vast majority of O&amp;G firms, including Koch Industries, Chevron, and Exxon Mobil, have made substantial donations nearly exclusively to conservative campaigns for over a decade (opensecrets.org). However, these contributions should be considered more as investments than donations, as the corporations are essentially buying influence by keeping up a level of monetary support for the candidates or representatives who they believe will always maintain a course of action and voting that aligns with the company’s financial interests—namely, resisting emissions reduction and green energy policies. (Goldberg et al., 2020). The Republican Party was most likely chosen as the primary target for this lobbying strategy due to their acute attention to and concern with a stable economy. Once again, the strategy highlights the prioritization of financial payoffs on the organizational level and the subsequent perpetuation of disapproval for climate-friendly policies. For the politicians themselves, financial payoff is not as significant of a motivator. Instead, their payoff lies in the power of influence that comes with holding public office. An interesting psychological dilemma which would be worth further research is that of these politicians’ psyches, as they receive their payoff from achieving power and influence, yet must yield virtually all of their personal decision-making power with respect to climate change.</p>
+<p>The literature behind this lobbying phenomenon is fairly wide but lacks real depth. While there is plenty of data and evidence behind the direction and intention of O&amp;G donations, there is still a significant lack of theorized counter-strategy against this abuse of politics. As it stands now, most literature detailing the political dynamics discussed here serves only as a database of background information and at most promotes public protest and individual activism. There must be advancements in the relevant research in order to find methods of forcing a change in this political structure and achieving widespread sustainable practices before the arrival of a tipping point preceding environmental disaster.</p>
+</section>
+<section id="international" class="level3" data-number="7.4.2">
+<h3 data-number="7.4.2" class="anchored" data-anchor-id="international"><span class="header-section-number">7.4.2</span> International</h3>
+<p>Compared to the domestic scene, the game theory of international politics on climate change presents as less corrupt, yet is far more complicated and poses different barriers to achieving policy construction and cooperation. Perhaps the main difference between the two is that the domestic political game is dominated by players with the most money, whereas the international political game is a truer competition where no player can be seen as “in first place,” as they are all engaging in various interactions simultaneously and often have changes of priority. Unfortunately, fossil fuels still stand as the most widely accessible, economy-friendly form of energy nearly everywhere in the world (Gross 2020), so any one country deciding to commit to a real transition to sustainable energy would be at considerable risk of backsliding on the global stage. Game theory can be helpful in identifying the approaches to understanding this issue and reaching for collective decision making.</p>
+<p>For the purpose of forming coalitions for collective action, game theory identifies two main methods: formation of one grand coalition and formation of many smaller coalitions (Wood 2011). Concerning the grand coalition, essentially every country of the world would be included, creating a massive movement of collective behavior which would effectively guide sustainable practices worldwide. While this seems wonderful at first glance, it would most likely not properly account for the wide variety of conditions and contexts under which these different nations are accustomed to operating. In contrast, the smaller coalitions approach allows for the deployment of multiple different strategies for sustainability, allowing countries of different classifications to join a coalition that fits its profile.</p>
+<p>Currently, the closest thing to an international coalition to exist is the Kyoto Protocol. This treaty, which was adopted in 1997 and put into effect in 2005, is an international commitment backed by the United Nations which utilizes thorough monitoring and verification systems to ensure the compliance of the 192 nations involved (UNFCCC). While the scale of this agreement is large enough to qualify as the grand coalition type, its policy is not severe or sufficient enough to lead to a complete decline of the climate crisis, which is why it is stable enough to encompass so many nations for as long as it has. While this fact does not mean that the Kyoto Protocol is useless or should be discarded, it emphasizes the difficulty of implementing a highly effective and stable grand coalition, as well as the reasoning for attempting implementation of many smaller coalitions with stricter policies.</p>
+</section>
+</section>
+<section id="conclusion" class="level2" data-number="7.5">
+<h2 data-number="7.5" class="anchored" data-anchor-id="conclusion"><span class="header-section-number">7.5</span> Conclusion</h2>
+<p>In conclusion, game theory is a study of economic behavioral analysis which provides many appropriate methods for understanding the various aspects of the climate debate and designing interventions for sustainable behavior. Its base principle of agents choosing payoff-maximizing strategies lends insight to the motivational mechanisms of not only individuals, but also organizations and political systems. On the individual level, both financial and social payoffs incite motivation, but the sticky quality of social norms makes interventions with financial incentives the most promising method for inducing sustainable behaviors. Organizations, particularly large Oil and Gas corporations, operate on similar logic only to a much higher scale of financial payoff, and have used their monetary power over the last few decades to support climate change skepticism and maintain their profits. Finally, those actions from O&amp;G firms have cultivated a domestic political system in the United States that is highly corrupt with regard to climate change discourse and policy, and the study of coalition games informs us of the difficulties of creating collective international sustainable norms. Moving forward, further study of climate change game theory, particularly concerning organizational decision-making and coalition formation, is necessary to identify more realistic methods for achieving long-term sustainability.</p>
+</section>
+<section id="references" class="level2" data-number="7.6">
+<h2 data-number="7.6" class="anchored" data-anchor-id="references"><span class="header-section-number">7.6</span> References</h2>
+<p>Bergquist, Magnus, et al.&nbsp;“Field Interventions for Climate Change Mitigation Behaviors: A Second-Order Meta-Analysis.” <em>Proceedings of the National Academy of Sciences</em>, vol.&nbsp;120, no. 13, 2023, https://doi.org/10.1073/pnas.2214851120.</p>
+<p>Camerer, Colin F, et al.&nbsp;“A Psychological Approach to Strategic Thinking in Games.” <em>Current Opinion in Behavioral Sciences</em>, vol.&nbsp;3, 2015, pp.&nbsp;157–162, https://doi.org/10.1016/j.cobeha.2015.04.005.</p>
+<p>Crawford, Jennifer L., et al.&nbsp;“Dissociable Effects of Monetary, Liquid, and Social Incentives on Motivation and Cognitive Control.” <em>Frontiers in Psychology</em>, vol.&nbsp;11, 2020, https://doi.org/10.3389/fpsyg.2020.02212.</p>
+<p>“The Difference between Complete and Incomplete Information.” <em>EconPort</em>, 2006, www.econport.org/content/handbook/gametheory/useful/complete.html.</p>
+<p>Dodge, Robert. “Critical Mass and Tipping.” <em>Schelling’s Game TheoryHow to Make Decisions</em>, 2012, pp.&nbsp;219–229, https://doi.org/10.1093/acprof:oso/9780199857203 .003.0018.</p>
+<p>Franta, Benjamin. “Early Oil Industry Disinformation on Global Warming.” <em>Environmental Politics</em>, vol.&nbsp;30, no. 4, 2021, pp.&nbsp;663–668, https://doi.org/10.1080/09644016.2020. 1863703.</p>
+<p>Goldberg, Matthew H., et al.&nbsp;“Oil and Gas Companies Invest in Legislators That Vote against the Environment.” <em>Proceedings of the National Academy of Sciences</em>, vol.&nbsp;117, no. 10, 2020, pp.&nbsp;5111–5112, https://doi.org/10.1073/pnas.1922175117.</p>
+<p>Gross, Samantha. “Why Are Fossil Fuels so Hard to Quit?” <em>Brookings</em>, 16 June 2021, www.brookings.edu/essay/why-are-fossil-fuels-so-hard-to-quit/.</p>
+<p>Krosnick, Jon. “Climate Insights 2020: Partisan Divide.” <em>Resources for the Future</em>, 13 Oct.&nbsp;2020, www.rff.org/publications/reports/climateinsights2020-partisan-divide/#:~:text= Since%201997%2C%20majorities%20of%20Democrats,gap%20of%2033%20percentage%20points.</p>
+<p>Li, Mei, et al.&nbsp;“The Clean Energy Claims of BP, Chevron, ExxonMobil and Shell: A Mismatch between Discourse, Actions and Investments.” <em>PLOS ONE</em>, vol.&nbsp;17, no. 2, 2022, https://doi.org/10.1371/journal.pone.0263596.</p>
+<p>Mulvey, K. “The Climate Deception Dossiers - Internal Fossil Fuel Memos Reveal Decades of Corporate Disinformation.” <em>Climate Change and Law Collection</em>, 8 July 2015, https://doi.org/10.1163/9789004322714_cclc_2015-0094-003.</p>
+<p>“Oil &amp; Gas.” <em>Opensecrets RSS</em>, 20 Mar.&nbsp;2023, www.opensecrets.org/industries/indus .php?ind=e01&amp;cycle=2022.</p>
+<p>Ritchie, Hannah, et al.&nbsp;“Emissions by Sector.” <em>Our World in Data</em>, 11 May 2020, ourworldindata.org/emissions-by-sector.</p>
+<p>Ross, Don. “Game Theory.” <em>Stanford Encyclopedia of Philosophy</em>, 8 Mar.&nbsp;2019, plato.stanford.edu/entries/game-theory/.</p>
+<p>Tavoni, Alessandro, and Doruk İriş. “Tipping and Reference Points in Climate Change Games.” <em>Handbook on the Economics of Climate Change</em>, 2020, https://doi.org/10. 4337/9780857939067.00018.</p>
+<p>Tomassini, Marco, and Alberto Antonioni. “Public Goods Games on Coevolving Social Network Models.” <em>Frontiers in Physics</em>, vol.&nbsp;8, 2020, https://doi.org/10.3389/fphy.2020. 00058.</p>
+<p>“What Is the Kyoto Protocol?” <em>UNFCCC</em>, unfccc.int/kyoto_protocol. Accessed 9 June 2023.</p>
+<p>Wood, Peter John. “Climate Change and Game Theory.” <em>Annals of the New York Academy of Sciences</em>, vol.&nbsp;1219, no. 1, 2011, pp.&nbsp;153–170, https://doi.org/10.1111/j .1749-6632.2010.05891.x.</p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="../chapters/interventions.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Climate Change Interventions: Behaviors, Attitudes, and Beliefs</span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+  </div>
+</nav>
+</div> <!-- /content -->
+
+
+
+</body></html>
