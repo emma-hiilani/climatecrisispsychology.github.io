@@ -3,11 +3,18 @@ project:
   output-dir: ../docs
 
 book:
-  title: "book"
+  title: "The Psychology of the Climate Crisis"
   author: "Psych 278 @Stanford"
   date: "6/17/2023"
   chapters:
     - index.qmd
+    - chapters/intro.md
+    - chapters/behavior_change.md
+    - chapters/social_identity.md
+    - chapters/time.md
+    - chapters/motivated_reasoning_misinformation.md
+    - chapters/interventions.md
+    - chapters/game_theory.md
 
 format:
   html:

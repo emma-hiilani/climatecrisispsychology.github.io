@@ -1,5 +1,18 @@
 # Preface {.unnumbered}
 
-This is a placeholder for the upcoming open source book on the Psychology of the Climate Crisis.
+This is an open book created by the students and instructors in "The Psychology of the Climate Crisis", a course taught in 2023 in the Department of Psychology at Stanford University by Professors Noah Goodman and Russell Poldrack.
+
+### Chapters
+
+- [1.  Introduction](chapters/intro.md)
+- [2.  Correlates of collective behavioral engagement](chapters/behavior_change.md)
+- [3.  Identifying with the climate crisis: Understanding the influences of social identities on climate change belief and attitudes](chapters/social_identity.md)
+- [4.  The psychology of time, climate change, and human behavior](chapters/time.md)
+- [5.  Factors in Climate Change Belief Formation](chapters/motivated_reasoning_misinformation.md)
+- [6.  Game Theory of Climate Change](chapters/game_theory.md)
+- [1.  Climate Change Interventions: Behaviors, Attitudes, and Beliefs](chapters/behavior_change.md)
+
 
 This book was generated using [Quarto](https://quarto.org).
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
