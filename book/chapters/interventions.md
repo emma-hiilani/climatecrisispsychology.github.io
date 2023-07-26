@@ -1,0 +1,158 @@
+## Climate Change Interventions: Behaviors, Attitudes, and Beliefs
+
+Ariella Chichilnisky du Lac
+
+Stanford University
+
+
+## Executive Summary
+
+Studies assessing different intervention types of climate change beliefs, attitudes, and behaviors are prevalent, but there is still a lot to be done to determine which interventions are most effective. Within the area of belief and attitude, there is a general consensus that interventions should be targeted towards conservatives and climate skeptics, and psychological distance perceptions, economic arguments, and political and moral framing appear promising in their ability to change climate beliefs and attitudes. Behavioral interventions on individual/household behaviors broadly seem to be best conducted through the use of social comparison and social norms, although there is some question of the overall efficacy of behavioral interventions, and more work needs to be done to determine whether the effects of these interventions last.
+
+## Introduction
+
+Using some of the context of the preceding chapters, and with the general goal of considering how psychological knowledge and perspectives can help with the climate crisis, this chapter will focus on psychological interventions around climate change. Broadly, these types of interventions can be categorized into two groups: interventions on beliefs and attitudes around climate change, and interventions targeting personal behavior change. This chapter will discuss the state of the literature on these different types of interventions, while considering how intervention importance and efficacy should be measured, and will conclude by describing the limitations of the current psychological intervention literature and suggestions for future research. Notably, this chapter exists in conjunction with **link Catherine's chapter**, which focuses specifically on behavior change around collective action.
+
+### Considering Intervention Importance and Efficacy
+
+Responses to climate change come in the forms of both mitigation, in other words, changing systems such that greenhouse gas emissions and other forms of environmental destruction are mitigated, and adaptation, which involves adjusting behaviors and actions to adapt to the climatic changes that are already occurring. Both mitigation and adaptation are necessary at this time, given that climate change has already had drastic effects on many places and communities and will continue to even as mitigation steps are being taken. However, adaptation is a process that is essentially reactive to lack of mitigation, in other words, the more climate change mitigation occurs, the less adaptation will need to occur (Rojas, 2019).
+
+For this reason, and because this book focuses on the United States, which produces the second-highest amount of emissions worldwide, this chapter will focus exclusively on psychological interventions around climate change *mitigation*. Mitigation is defined as reducing the levels of greenhouse gasses --- particularly carbon dioxide --- in the atmosphere, both by reducing current and future emissions and increasing resources that can draw down and store these gasses (NASA, 2023).
+
+Psychological interventions that focus on behavior change are often able to directly calculate mitigation --- almost always emissions reductions --- by using knowledge of the emissions associated with the behavior and the measured change in behavior. However, interventions around belief and intention to act are unable to directly measure emissions reductions, as the thing being intervened on is not directly linked to any sort of greenhouse gas emissions. Additionally, some of the reviews and meta-analyses discussed in this chapter focus on pro-environmental behaviors (broadly defined, behaviors that affect environmental quality, including recycling and littering as well as energy usage (Steg and Vlek, 2009)) more generally, rather than just on emissions reductions.
+
+These discrepancies make it difficult and beyond the scope of this chapter to rank all intervention types based on their resulting emissions reductions. However, by approaching the literature on psychological interventions around climate change with the general framework of prioritizing emissions reductions, some light can be shed on which interventions appear most promising for achieving this goal.
+
+### Intervention Types
+
+In broad terms, the climate change intervention literature that we will be focusing on in this chapter can be categorized into two types: interventions on views around climate change (belief, attitude) and interventions on behavior (intention to act, individual action, collective action). Searches on sites like Google Scholar using keywords such as 'climate change' and 'psychological interventions' also result in interventions around the negative mental health effects of climate change. While important, the focus of these interventions does not relate to the goal of emissions mitigation previously described in this chapter, thus, we will not be focusing on this type of intervention.
+
+## Belief and Attitude Interventions
+
+Despite a clear scientific consensus on the anthropogenic roots of climate change, as of 2020, in the US, only 61% of registered voters believe that climate change is largely human-caused.
+
+Additionally, beliefs around the existence of climate change are heavily split along party lines --- only 30% of conservative Republicans believe in anthropogenic climate change (Leiserowitz et al., 2020). Additionally, support for specific policies around energy and emissions varies; generally, Republicans and particularly conservative Republicans are less supportive of climate-related policies than Democrats and Independents (Rode et al., 2021).
+
+As a result, a number of interventions have focused on changing beliefs and attitudes around climate change. For more information specifically about climate change-related belief formation and updating, see **link Matthew's chapter**. In this section, we will begin a high-level overview of the state of the literature on belief and attitude interventions, and which have appeared to be most successful. This will be followed by a discussion of whether and why altering climate change beliefs and attitudes are important for achieving emissions reductions.
+
+### High-Level Discussion of Interventions
+
+One meta-analysis considered 76 different interventions conducted in the United States that sought to change either beliefs around climate change or attitudes around climate policy. It found that interventions have a positive effect on attitudes around climate change, and that beliefs in climate change are more susceptible to intervention than attitudes around climate policy (Rode et al., 2021).
+
+Notably, this meta-analysis also considered interventions with the goal of decreasing climate beliefs, and found that the effect that these negative interventions had on decreasing beliefs was stronger than the effect that positive interventions had on increasing climate change belief (Hedge's *g*: -0.29 and 0.08, respectively). The larger effect size of decreased belief is important to consider, although discouraging, when one considers the spread of misinformation about climate science (see **link Matthew's chapter** for more on climate information). (Rode et al., 2021).
+
+One chapter in a book on the partisan climate divide sought to answer similar questions about policy support and climate change beliefs, focusing specifically on how interventions differentially affect liberals and conservatives. It considered interventions focused on emotion, psychological distance, policy framing, and scientific consensus. Although the previously discussed meta-analysis did *not* find political views to be a significant moderator for intervention effectiveness (Rode et al., 2021), the review discussed a distinction between the effects of interventions on liberals and conservatives. With regard to liberals, the review paper noted a ceiling effect of climate-related interventions --- support for climate policy stayed consistently high, regardless of intervention type (Rode and Ditto, 2021).
+
+For conservatives, however, results were mixed, and detailed as follows. Decreasing perception of *psychological distance* --- see **(link Anaïs' chapter)** for more information about this topic --- seemed to be consistently positive in terms of increasing climate beliefs and decreasing political polarization in a number of interventions. Attitudes around policy also seemed to be positively changed using policy framing devices. In particular, *emphasis frames*, which serve to shift the emphasis of policy away from climate change in particular and towards other frames like air pollution, generally increased conservative support for those policies. *Source framing*, in other words framing policies as coming from Republican or Democrat sources, had a positive effect when linked to specific policies, but did not have a consistent effect when sources were associated with more general climate messaging. *Moral reframing*, or shifting the wording or framing of a policy to reflect traditionally Republican moral viewpoints such as purity and authority, also appeared to have a consistently positive effect on conservatives' climate change attitudes, although the review only described a few such studies, so more literature is needed in this area to draw more definitive conclusions. *Economic messages* were found to have mixed results, with some interventions producing very positive changes in climate beliefs and policy attitudes, and some finding that changes were moderated by other factors, such as the source of the messaging. Interventions leveraging emotions and scientific consensus had no consistent effects (Rode and Ditto, 2021).
+
+### How Belief and Attitude Relate to Emissions Mitigation
+
+Changes in beliefs and attitudes around climate change don't lead directly to emissions reductions, but the idea behind these interventions is that belief in climate change will lead to personal action and/or policy changes around climate change, and these will result in emissions mitigation.
+
+Regarding personal behavior, a recent meta-analysis found that belief in climate change is correlated with pro-environmental intentions (Hornsey et al., 2016). To a lesser extent, there is also a relationship between belief in climate change and pro-environmental behavior (Hornsey et al., 2016). This effect was smaller than that of the effect on intentions, a reflection of what is known as the "green gap" --- a theory which posits that there is a gap between intention to act and actual behavior when it comes to pro-environmental actions (ElHaffar, 2020).
+
+The green gap has been documented repeatedly in the climate behavior literature (ElHaffar, 2020), but one should note that its existence does not preclude *any* relationship of intention on action. For example, one meta-analysis considered studies that examined this difference and concluded that a "medium-to-large change in intention leads to a small-to-medium change in behavior" (Webb and Sheeran, 2006). Thus, to the extent that belief in climate change affects intention to act, it likely also has some effect on actual pro-environmental behavior.
+
+Influencing policy support, and the voting associated with it, is distinct from the behavior (or lack thereof) described by the green gap. Obviously, however, policy support is a behavior which can have a significant effect on emissions, in the cases in which emissions reductions policies are supported. It is thus encouraging to note that the previously mentioned meta-analysis found that belief in climate change is also correlated with climate policy support (Hornsey et al., 2016).
+
+Overall, interventions that change beliefs and attitudes can have a positive effect on emissions reductions, albeit indirectly. In the next section, we turn to interventions that seek to change behavior, leading to more direct emissions reductions.
+
+## Behavioral Interventions
+
+Behavior change in regards to climate change can come in the form of individual/household behavior change (changing consumption habits, household energy use, transportation habits, etc.) and in the form of participation in collective action (voting, attending protests, joining climate activism groups, etc.). The former type of intervention has a directly measurable impact on emissions, whereas the latter indirectly impacts emissions, via changes in governance and policy to regulate emissions from other sectors.
+
+Climate change is often cited as a quintessential example of the "tragedy of the commons", in other words, if individual entities take actions which are best for themselves, the group as a whole will be worse off. This can be thought of both on the scale of countries, where individual countries are incentivized to continue polluting, but ultimately this results in worsening climate change, as well as on the scale of individual people within a country, in that there can be a significant cost to taking individual action against climate change, and very little benefit if other individuals do not also take similar actions. As a result, it is often argued that action should be taken at a level higher than the individual (i.e. via policy changes), although there are arguments that individuals should take action (e.g. Hourdequin, 2010).
+
+The nature of climate change as a tragedy of the commons problem means that collective action to force changes on larger scales than the individual will be essential. Additionally, it is important to consider the fact that not everybody can afford to engage in individual climate action. Actions such as buying more fuel-efficient cars can be very costly, and lower-income individuals may have less ability to take such actions, further necessitating larger scale support and changes in infrastructure and policy. As a result, we have dedicated an entire chapter to the topic of behavior change around collective action (**link Catherine's chapter**). The remainder of this chapter will focus on behavior change around individual/household level actions.
+
+### Quantifying Impact
+
+As mentioned, collective action and changes in higher-level policies and regulations will be a critical component of mitigating carbon emissions. However, actions taken on the level of households and even individuals also have the potential to play a role in mitigation.
+
+A frequently-cited article from 2009 estimates the reasonably achievable emissions reductions (or RAER) from changes in sources of direct energy emissions. This includes upgrading heating and HVAC systems, buying a more fuel-efficient vehicle, and increasing home weatherization, among other acts, all of which directly reduce the emissions created by day-to-day activities. The paper estimated the potential for emissions reductions based on the behavioral plasticity shown by the most effective interventions on these different activities. Using the stabilization wedges framework, which posits that 25 Gt emissions reductions in eight different sectors will be enough to stabilize the climate (Stabilization Wedges -- Carbon Mitigation Initiative), the paper concludes that the RAER from direct household energy emissions is enough to make up 44% of the US's stabilization wedges --- in other words, reasonably achievable changes on the part of households can play a big part in emissions mitigation in the US (Dietz et al., 2009).
+
+The numbers used in this paper have changed since it was written. Direct household emissions are now estimated to only make up 20% of the US's total emissions, rather than the 38% statistic cited in the paper (Goldstein et al., 2020), and in terms of stabilization wedges, more progress has been made on ones associated with direct household energy use than other sectors, indicating that focus on other sectors may be more pressing now (Johnson et al., 2021). This is encouraging --- it means that rapid progress has been made over the past 15 years in decreasing direct household emissions. It may lessen, to some extent, the impact that future changes in direct household emissions can make, as quantified by the paper. However, the general framework stands: a certain percentage of direct household emissions are reasonably achievable given the state of current interventions, and depending on these numbers, changes in household direct energy emissions in the US could play a significant role in the country's total emissions reductions.
+
+Many other studies have sought to answer similar questions about the emissions impact of changes in individual behavior. For example, one study compared the emissions associated with seven different pro-environmental behaviors in North America and Europe, and found that overall, changes in diet (towards fewer meat products) had the largest emissions reduction potential, followed by changing to a more fuel-efficient vehicle. However, higher-income households could reduce emissions more by limiting air travel than any other behavior (Lacroix, 2018).
+
+### Reviews and Meta-Analyses
+
+There are a great number of studies that have sought to test the effects of various interventions on pro-environmental behavior. A number of meta-analyses and reviews have been conducted on different intervention types, so many, in fact, that a second order meta-analysis was also conducted to synthesize and analyze the information derived from hundreds of intervention studies. In this section, a few notable reviews and meta-analyses on climate interventions will be discussed.
+
+One review paper considered three high-emissions behaviors in western economies --- diet, personal vehicle usage, and household energy emissions --- and associated interventions to estimate achievable emissions reductions through behavioral interventions. In so doing, they also identified the most promising types of interventions for each action: nudging for changes in diet (in particular, having the default option be plant-based), financial incentives for vehicle usage, and information-based/feedback interventions for household energy usage (Wynes et al., 2018).
+
+The aforementioned second-order meta-analysis was published in 2023, and sought to identify whether, overall, behavioral interventions have an effect on pro-environmental behavior, as well as which interventions are most effective and which behaviors are easiest to intervene upon. With conservative adjustments for publication bias, a small but statistically significant average effect size was identified, and the authors note that even small effect sizes are meaningful in the context of scalable interventions (Bergquist et al., 2023).
+
+Of the intervention types considered, social comparison interventions were the most effective, followed by financial incentives. The behavior most susceptible to intervention was littering, followed by consumption, conservation, and recycling behaviors. Transportation behaviors were found to be the least changed by intervention (Bergquist et al., 2023). Notably, littering contributes very little in terms of greenhouse gas emissions compared with the other behaviors --- as discussed in the previous section, consumption and transportation behaviors are the most impactful in terms of their potential for emissions reductions. However, the overall finding that interventions do have an effect, as well as an identification of social comparison interventions being most impactful, are optimistic.
+
+In accordance with this last point, a 2021 review paper considered 58 articles and found that social norms consistently appear to have an influence on climate-related behaviors (including emissions-reducing behaviors like food choice and energy consumption, as well as more general pro-environmental behavior such as recycling). In multiple of the studies reviewed, aligned norm messaging (combining messaging about descriptive and injunctive norms) was found to be more effective than messaging about only one type of norm. The review also considers the moderating effects of group identity, conflicting environmental cues, and prior identification. Notably, two studies discussed in the review found that norms had a stronger effect on those who had identified less with the behavior prior to being exposed to the norms (Cialdini and Jacobson, 2021).
+
+A meta-analysis of resource conservation interventions also found that social influence has a positive effect on resource conservation compared to control conditions, and, to a lesser extent, compared to other interventions such as feedback (Abrahamse and Steg, 2013). Here, resource conservation includes energy conservation --- directly related to emissions reductions --- as well as recycling, which has a much smaller mitigation potential.
+
+Conflicting with these results, one large-scale meta-analysis found very little effect of intervention on climate change related behaviors. This analysis excluded financial incentives as a form of intervention, but noted that interaction effects between economic incentives and other behavioral interventions may increase the efficacy of intervention. Importantly, the analysis also considered the persistence of behavior change, after the intervention period was over, and found that behaviors that must persist to have emissions reduction effects (such as food consumption choices) don't continue following interventions (Nisa et al., 2019). Some behaviors, such as buying a more fuel-efficient car, are one-shot behaviors which need not continue to be implemented following intervention, however, for all those behaviors which must persist to have an effect, this is quite a discouraging result.
+
+However, an article recently came out critiquing the analysis techniques used in this paper. This article stated that the estimation procedure used that resulted in the discouraging conclusions --- small effect size and low behavioral plasticity --- was not recommended for the sort of data being analyzed in the meta-analysis. They further conducted effect size estimations using a number of different procedures, and found that in multiple cases, effect sizes were double those found by the original paper. They concluded by noting that, although effect sizes were still small, they were not nearly as small as found in the original paper, an encouraging note that becomes even more encouraging when one considers how small effect sizes can still make an impact when interventions are scaled up (van der Linden and Goldberg, 2020).
+
+Overall, the literature on behavior-change interventions around pro-environmental behaviors is positive. Most meta-analyses suggest that interventions can have an effect on behavior, and some point to social influence and norms-based interventions being the most impactful intervention types. This echoes other, theoretical arguments that have been made for the role that social norms can play in mitigating climate change (Sparkman et al., 2020).
+
+More rigorous interventions, and more analyses of interventions, must be conducted to gain a better sense of the effects of these interventions on behavior change. Additionally, relatively few interventions measure the persistence of intervention effects following the intervention period (Nisa et al., 2019), and, for applicable behaviors, this must be further studied to gain a better sense of the longer-term impact of interventions.
+
+## Conclusion
+
+In general, studies assessing climate change related belief interventions have mixed results, and behavior interventions show small but positive effect sizes. More work needs to be done to draw more definitive conclusions about the efficacy of different intervention types for changing behavior and beliefs.
+
+Frameworks for new types of interventions are continually being suggested, for example, a recent review paper provides motivation and frameworks for evolutionary psychology based interventions (Palomo-Vélez and van Vugt, 2021). Importantly, as interventions continue to be tested, the possibility of spillover effects should be studied and looked out for, particularly in behavioral interventions. Spillover effects are negative behaviors which occur as a result of an intervention, but which are not the intended result, such as increased consumption of electricity following an efficiency upgrade, which could offset the resource conservation of the efficiency upgrade (Carrico, 2021).
+
+Overall, there is reason to be cautiously optimistic about the role that interventions could play in mitigating the climate crisis. More work needs to be done to study interventions and determine the most effective intervention types, but the literature suggests positive effects of interventions on climate-related beliefs, attitudes, and behaviors.
+
+## Works Cited
+
+Abrahamse, W., & Steg, L. (2013). Social influence approaches to encourage resource conservation: A meta-analysis. Global Environmental Change, 23(6), 1773--1785. https://doi.org/10.1016/j.gloenvcha.2013.07.029
+
+Bergquist, M., Thiel, M., Goldberg, M. H., & van der Linden, S. (2023). Field interventions for climate change mitigation behaviors: A second-order meta-analysis. Proceedings of the National Academy of Sciences, 120(13). https://doi.org/10.1073/pnas.2214851120
+
+Carrico, A. R. (2021). Climate change, behavior, and the possibility of spillover effects: recent advances and future directions. Current Opinion in Behavioral Sciences, 42, 76--82. https://doi.org/10.1016/j.cobeha.2021.03.025
+
+Cialdini, R. B., & Jacobson, R. P. (2021). Influences of social norms on climate change-related behaviors. Current Opinion in Behavioral Sciences, 42, 1--8. https://doi.org/10.1016/j.cobeha.2021.01.005
+
+Dietz, T., Gardner, G. T., Gilligan, J., Stern, P. C., & Vandenbergh, M. P. (2009). Household actions can provide a behavioral wedge to rapidly reduce US carbon emissions. Proceedings of the National Academy of Sciences, 106(44), 18452--18456. https://doi.org/10.1073/pnas.0908738106
+
+ElHaffar, G., Durif, F., & Dubé, L. (2020). Towards closing the attitude-intention-behavior gap in green consumption: A narrative review of the literature and an overview of future research directions. Journal of Cleaner Production, 275(1), 122556. https://doi.org/10.1016/j.jclepro.2020.122556
+
+Goldstein, B., Gounaridis, D., & Newell, J. P. (2020). The carbon footprint of household energy use in the United States. Proceedings of the National Academy of Sciences, 117(32). https://doi.org/10.1073/pnas.1922205117
+
+Hornsey, M. J., Harris, E. A., Bain, P. G., & Fielding, K. S. (2016). Meta-analyses of the determinants and outcomes of belief in climate change. Nature Climate Change, 6(6), 622--626. https://doi.org/10.1038/nclimate2943
+
+Hourdequin, M. (2010). Climate, Collective Action and Individual Ethical Obligations. Environmental Values, 19(4), 443--464. https://doi.org/10.3197/096327110x531552
+
+Johnson, N., Gross, R., & Staffell, I. (2021). Stabilisation wedges: measuring progress towards transforming the global energy and land use systems. Environmental Research Letters, 16(6), 064011. https://doi.org/10.1088/1748-9326/abec06
+
+Lacroix, K. (2018). Comparing the relative mitigation potential of individual pro-environmental behaviors. Journal of Cleaner Production, 195, 1398--1407. https://doi.org/10.1016/j.jclepro.2018.05.068
+
+Leiserowitz, A., Maibach, E., Rosenthal, S., Kotcher, J., Ballew, M., Bergquist, P., Gustafson, A., Goldberg, M., & Wang, X. (2020). Politics & Global Warming, April 2020. Yale University and George Mason University. New Haven, CT: Yale Program on Climate Change Communication.
+
+NASA, 2023. Climate Change Adaptation and Mitigation. Climate Change: Vital Signs of the Planet. https://climate.nasa.gov/solutions/adaptation-mitigation/\#:\~:text=Mitigation%20%E2%80%93%20reducing%20climate%20change%20%E2%80%93%20involves
+
+Nisa, C. F., Bélanger, J. J., Schumpe, B. M., & Faller, D. G. (2019). Meta-analysis of randomised controlled trials testing behavioural interventions to promote household action on climate change. Nature Communications, 10(1). https://doi.org/10.1038/s41467-019-12457-2
+
+Palomo-Vélez, G., & van Vugt, M. (2021). The evolutionary psychology of climate change behaviors: Insights and applications. Current Opinion in Psychology, 42, 54--59. https://doi.org/10.1016/j.copsyc.2021.03.006
+
+Rode, J. B., Dent, A. L., Benedict, C. N., Brosnahan, D. B., Martinez, R. L., & Ditto, P. H. (2021). Influencing climate change attitudes in the United States: A systematic review and meta-analysis. Journal of Environmental Psychology, 76, 101623. https://doi.org/10.1016/j.jenvp.2021.101623
+
+Rode, J., & Ditto, P. (2021). Can the partisan divide in climate change attitudes be bridged? In J.-W. van Prooijen (Ed.), The Psychology of Political Polarization (pp. 149--168). Routledge. https:/bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/1/863/files/2021/08/Rode-Ditto-2021-copy.pdf
+
+Rojas, D., (2019). Climate adaptation vs. mitigation: What's the difference, and why does it matter? Climate Reality Project. https://www.climaterealityproject.org/blog/climate-adaptation-vs-mitigation-why-does-it-matter\#:\~:text=Although%20mitigation%20and%20adaptation%20are
+
+Sparkman, G., Howe, L., and Walton, G. (2020). How social norms are often a barrier to addressing climate change but can be part of the solution. Behavioural Public Policy, 5(4), 1--28. https://doi.org/10.1017/bpp.2020.42
+
+Stabilization Wedges -- Carbon Mitigation Initiative. CMI; High Meadows Environmental Institute. https://www.google.com/url?q=https://cmi.princeton.edu/resources/stabilization-wedges/&sa=D&source=docs&ust=1686371285640541&usg=AOvVaw0BKq-1ctiOdZdcSBwR0dYF
+
+Steg, L., & Vlek, C. (2009). Encouraging pro-environmental behaviour: An integrative review and research agenda. Journal of Environmental Psychology, 29(3), 309--317.
+
+van der Linden, S., & Goldberg, M. H. (2020). Alternative meta-analysis of behavioral interventions to promote action on climate change yields different conclusions. Nature Communications, 11(1). https://doi.org/10.1038/s41467-020-17613-7
+
+Webb, T. L., & Sheeran, P. (2006). Does changing behavioral intentions engender behavior change? A meta-analysis of the experimental evidence. Psychological Bulletin, 132(2), 249--268. https://doi.org/10.1037/0033-2909.132.2.249
+
+‌
+
+Wynes, S., Nicholas, K. A., Zhao, J., & Donner, S. D. (2018). Measuring what works: quantifying greenhouse gas emission reductions of behavioural interventions to reduce driving, meat consumption, and household energy use. Environmental Research Letters, 13(11), 113002. https://doi.org/10.1088/1748-9326/aae5d7
