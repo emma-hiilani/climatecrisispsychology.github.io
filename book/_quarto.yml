@@ -8,7 +8,7 @@ book:
   date: "6/17/2023"
   chapters:
     - index.qmd
-    - chapters/intro.md
+    - chapters/psychology-climate-change.md
     - chapters/behavior_change.md
     - chapters/social_identity.md
     - chapters/time.md
