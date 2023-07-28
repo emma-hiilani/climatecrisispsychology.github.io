@@ -4,7 +4,7 @@ This is an open book created by the students and instructors in "The Psychology 
 
 ### Chapters
 
-- [1.  Introduction: Teaching the Psychology of the Climate Crisis.](chapters/psychology-climate-change.md)
+- [1.  Preface from the instructors: Teaching the Psychology of the Climate Crisis.](chapters/psychology-climate-change.md)
 - [2.  Correlates of collective behavioral engagement](chapters/behavior_change.md)
 - [3.  Identifying with the climate crisis: Understanding the influences of social identities on climate change belief and attitudes](chapters/social_identity.md)
 - [4.  The psychology of time, climate change, and human behavior](chapters/time.md)

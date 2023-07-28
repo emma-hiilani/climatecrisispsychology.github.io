@@ -1,4 +1,4 @@
-## Teaching the Psychology of the Climate Crisis
+## Preface from the instructors: Teaching the Psychology of the Climate Crisis
 
 Russ Poldrack and Noah Goodman
 
@@ -38,7 +38,7 @@ With only ten weeks there were a number of topics that we were not able to cover
 
 In planning the class Russ floated the somewhat off-the-wall idea of having the students work together to generate an open source e-book as their final project.  He had done this [once before](https://openjdm.github.io/) and thought the students found it quite fulfilling to generate a resource that will live beyond the end of the quarter.  
 
-In the first few weeks we discussed the chapter topics (which aligned roughly with the syllabus topics), and the students worked together to identify potential synergies and overlaps between their intended topics.  In Week 5 students submitted a one-page topic proposal with proposed references, which were peer-reviewed by other students as well as by the instructors.  An initial draft of the chapter was due in Week 8, which were also peer reviewed, and the final draft was due during Finals Week (Week 11).  The chapters will be edited by the instructors over the summer and will be released as an [open-source book](https://climatecrisispsychology.github.io/) later this summer.
+In the first few weeks we discussed the chapter topics (which aligned roughly with the syllabus topics), and the students worked together to identify potential synergies and overlaps between their intended topics.  In Week 5 students submitted a one-page topic proposal with proposed references, which were peer-reviewed by other students as well as by the instructors.  An initial draft of the chapter was due in Week 8, which were also peer reviewed, and the final draft was due during Finals Week (Week 11).  
 
 
 ## Major takeaways
