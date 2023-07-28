@@ -10,7 +10,7 @@ This is an open book created by the students and instructors in "The Psychology 
 - [4.  The psychology of time, climate change, and human behavior](chapters/time.md)
 - [5.  Factors in Climate Change Belief Formation](chapters/motivated_reasoning_misinformation.md)
 - [6.  Game Theory of Climate Change](chapters/game_theory.md)
-- [7.  Climate Change Interventions: Behaviors, Attitudes, and Beliefs](chapters/behavior_change.md)
+- [7.  Climate Change Interventions: Behaviors, Attitudes, and Beliefs](chapters/interventions.md)
 
 
 This book was generated using [Quarto](https://quarto.org).
