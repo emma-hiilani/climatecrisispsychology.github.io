@@ -6,9 +6,9 @@ Russ Poldrack and Noah Goodman
 
 > "It is now incontrovertible that human behavior has led to significant changes in the Earth’s climate, and that these changes will inflict an increasingly significant toll on human wellbeing if they are not reversed.  It is also clear that both the opportunities and obstacles to the needed changes are largely psychological and behavioral."
 
-So began the syllabus for a course that we taught together in the Spring Quarter of 2023 at Stanford, titled "Psychology of the Climate Crisis". We had discussed teaching such a class for several years, and finally had the chance to do it this year. The group of students in the class ended up being quite small, with four undergradates, two Master's students, and two PhD students, hailing from six different departments across the university.  Fortunately, these were amongst the most engaged and dedicated students that we have ever taught in our entire careers.  The small size of the class also allowed us to get to know the students very well and give them more agency in designing the class.
+So began the syllabus for a course that we taught together in the Spring Quarter of 2023 at Stanford, titled "Psychology of the Climate Crisis".  We had discussed teaching such a class for several years, and finally had the chance to do it this year. The group of students in the class ended up being quite small, with four undergraduates, two Master's students, and two PhD students, hailing from six different departments across the university.  Fortunately, these were amongst the most engaged and dedicated students that we have ever taught in our entire careers.  The small size of the class also allowed us to get to know the students very well and give them more agency in designing the class.
 
-The goal of this introduction is to catalog our experiences in teaching this class, in hopes that they might inspire others to teach similar courses.
+The goal of this introduction is to catalog our experiences teaching this class, in hopes that we might inspire others to teach similar courses.
 
 ## Syllabus
 
@@ -16,7 +16,7 @@ Since neither of us had any expertise in climate psychology, we decided to work 
 
 The other major event of the first week was a talk to the class by [Adam Aron](https://aronlab.org/), who happened to be visiting campus that week.  Adam has been at the forefront of advocacy around the climate crisis, and has recently written a very nice [book](https://aronclimatecrisis.net/) on the topic, which includes a substantial amount of discussion around relevant psychological issues.  
 
-The first session of each week (Tuesday) was dedicated to student-led discussion of papers regarding the week's subtopic.  The students were also responsible for selecting the papers.  Because of the small number of students in the class, we assigned the leadership of the discussion each Tuesday to one or two students. The second session each week was dedicated to working on the final project (discussed below) or to wide-ranging discussions of relevant topics.
+The first session of each week (Tuesday) was dedicated to student-led discussion of papers regarding the week's subtopic.  The students were also responsible for selecting the papers that they presented on.  Because of the small number of students in the class, we assigned the leadership of the discussion each Tuesday to one or two students. The second session each week was dedicated to working on the final project (discussed below) or to wide-ranging discussions of relevant topics.
 
 | Week | Topic | Readings |
 | -- | -- | -- |
@@ -31,14 +31,14 @@ The first session of each week (Tuesday) was dedicated to student-led discussion
 | 9 | Psychological interventions to address climate change	| [Bergquist et al. (2023)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10068847/), [Dietz et al. (2009)](https://www.pnas.org/doi/10.1073/pnas.0908738106) |
 | 10 | Wrapup | |
 
-With only ten weeks there were a number of topics that we were not able to cover.  One important one, which is the focus of [recent work by Adam Aron and colleagues](https://royalsocietypublishing.org/doi/10.1098/rsos.210006), is the psychology of collective action; that is, what are the psychological factors that drive people to become involved in larger groups and ultimately to become activists.  Another important topic that we didn't touch upon is the psychological impacts of climate change, though this topic came up often in our discussions.
+With only ten weeks in the course, there were a number of topics that we were not able to cover.  One important one, which is the focus of [recent work by Adam Aron and colleagues](https://royalsocietypublishing.org/doi/10.1098/rsos.210006), is the 'psychology of collective action'; that is, the psychological factors that drive people to become involved in larger groups and ultimately to become activists.  Another important topic that we didn't touch upon is the psychological impacts of climate change, though this topic came up often in our discussions.
 
 
 ## Class project: An open-source book
 
-In planning the class Russ floated the somewhat off-the-wall idea of having the students work together to generate an open source e-book as their final project.  He had done this [once before](https://openjdm.github.io/) and thought the students found it quite fulfilling to generate a resource that will live beyond the end of the quarter.  
+In planning the class Russ floated the somewhat off-the-wall idea of having the students work together to generate an open source e-book as their final project.  He had done this [once before](https://openjdm.github.io/) and thought that his previous students had found it quite fulfilling to generate a resource that could live beyond the end of the quarter.  
 
-In the first few weeks we discussed the chapter topics (which aligned roughly with the syllabus topics), and the students worked together to identify potential synergies and overlaps between their intended topics.  In Week 5 students submitted a one-page topic proposal with proposed references, which were peer-reviewed by other students as well as by the instructors.  An initial draft of the chapter was due in Week 8, which were also peer reviewed, and the final draft was due during Finals Week (Week 11).
+In the first few weeks we discussed the chapter topics (which aligned roughly with the syllabus topics), and the students worked together to identify potential synergies and overlaps between their intended topics.  In Week 5 students submitted a one-page topic proposal with proposed references, which were peer-reviewed by other students as well as by the instructors.  Initial drafts of the chapters were due in Week 8, which were also peer reviewed, and the final draft was due during Finals Week (Week 11).
 
 
 ## Major takeaways
@@ -51,11 +51,11 @@ An important new concept that we learned about in the class is *pluralistic igno
 
 > "80–90% of Americans underestimate the prevalence of support for major climate change mitigation policies and climate concern. While 66–80% Americans support these policies, Americans estimate the prevalence to only be between 37–43% on average. Thus, supporters of climate policies outnumber opponents two to one, while Americans falsely perceive nearly the opposite to be true."
 
-It's very clear that this kind of systematic misunderstanding is a serious impediment to any kind of climate action at the national level.  Unfortunately it's less clear how we fix this problem.
+It's very clear that this kind of systematic misunderstanding is a serious impediment to any kind of climate action at the national level.  Unfortunately, it's less clear how we fix this problem.
 
-Turning toward impact in psychology rather than public lifde, climate change is a case study for "psychology in the wild" that helps bring together many different psychological issues that are often studied in different subfields.  A few examples would include: behavioral decision making, game theory, intertemporal choice, belief updating, behavior change, and social norms.  Thinking about the larger topic of climate change required bringing all of these together in a way that was quite illuminating for both of us.
+Turning toward impact in psychology rather than public life, climate change is a case study for "psychology in the wild" that helps bring together many different psychological issues that are often studied in different subfields.  A few examples include: behavioral decision making, game theory, intertemporal choice, belief updating, behavior change, and social norms.  Thinking about the larger topic of climate change required bringing all of these together in a way that was quite illuminating for both of us.
 
-Finally, we must mention the methodological issues within the literature that we read.  Our class discussions of the readings tended heavily towards deep dives into the methodology of each study (perhaps not surprisingly given the instructors), and many of the empirical studies we examined had fairly significant methodological shortcomings.  In a number of cases there were methodological choices made that were non-standard and not well motivated, which for me evokes a sense of p-hacking.  In fact, there is evidence for at least some degree of p-hacking in this literature from the p-curve analysis presented by Bergquist et al in the meta-analysis.  Figure D from Appendix B shows the bump in p-values just below .05 that would be expected if researchers were exploiting analytic variability in order to find a signficant effect:
+Finally, we must mention the methodological issues within the literature that we read.  Our class discussions of the readings tended heavily towards deep dives into the methodology of each study (perhaps not surprisingly, given the instructors), and many of the empirical studies we examined had fairly significant methodological shortcomings.  In a number of cases there were methodological choices made that were non-standard and not well motivated, which for me evokes a sense of p-hacking.  In fact, there is evidence for at least some degree of p-hacking in this literature from the p-curve analysis presented by Bergquist et al in the meta-analysis.  Figure D from Appendix B shows the bump in p-values just below .05 that would be expected if researchers were exploiting analytic variability in order to find a signficant effect:
 
 ![](bergquist_pcurve.png)
 
